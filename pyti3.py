@@ -443,7 +443,7 @@ except: pass''')
     _kw_ab = _b64_ab.b64encode(b'pycdc,decompyle,uncompyle,decompile,deobf,disassembl,pydisasm,unpyc,pyfluff,marshal_dump,tracer,hook_exec,hook_marshal,pylingual,pyarmor').decode()
     _pr_ab = _b64_ab.b64encode(b'pycdc,pycdc.exe,decompyle++,uncompyle6,decompyle,pydecomp,pylingual,xdis,pyarmor,pyfluff,decompile,unpyc,dis,pycdc_gui,ida.exe,ida64.exe,idag.exe,idaw.exe,x64dbg.exe,x32dbg.exe,x96dbg.exe,cheatengine.exe,scylla.exe,processhacker.exe,procmon.exe,wireshark.exe,fiddler.exe,charles.exe,httpcanary.exe,mitmproxy.exe,burpsuite.exe,dnspy.exe,de4dot.exe').decode()
     _md_ab = _b64_ab.b64encode(b'pycdc,decompyle,uncompyle,decompile,xdis,pydisasm,pylingual,deobfuscator').decode()
-    
+
     active_engine = '''
 _Ox1('-> Loading...', end='\\r')
 j = []
@@ -1290,7 +1290,7 @@ try:
         try:
             raise Exception
         except Exception:
-            
+
             raise
         except:
             pass
@@ -1303,19 +1303,19 @@ except:
         except {thicthamcrush}_:
             pass
         except:
-            
+
             try:
                 raise Exception
             except:
                 pass
-                
+
 try:
     pass
 except:
     _0xFx4B5['{rbx()}{rbx()}{superrandom()}'] = __import__
 else:
     pass
-    
+
 try:
     ToiㅤCoㅤUocㅤThanhㅤ1ㅤNhacㅤSiㅤNoiㅤLoan = {champ}({enc('buonialevel1')})
 except:
@@ -1402,7 +1402,7 @@ except:
 
 if globals().get('ThanHoMenhLevel1000', 'LD_PRELOAD') in KhangCoder('os').environ:
     raise RuntimeError("Khangcoder...")
-    
+
 try:
     try:
         ThichㅤXamㅤLonㅤKhongㅤEm = {_uni}({anhxa1('("✦ ✧✦ ✧✦ ✧✦ ✧✦ ✧")')})
@@ -1557,7 +1557,7 @@ except:
     pass
 else:
     pass
-    
+
 try:
     raise ValueError("g23")
 except ValueError:
@@ -2369,7 +2369,7 @@ y93 = 3
 if x93 != y93:
     if (x93 - y93) != 5:
         pass
-    else:   
+    else:
         if x93 > y93:
             pass
         else:
@@ -2892,17 +2892,17 @@ f145 = 1
 g145 = 0
 if f145:
     t145 = "g145-a" if g145 else "g145-b"
-    
+
 else:
     t145 = "g145-c" if g145 else "g145-d"
 m146 = 2
 n146 = 5
 if m146 < n146:
     z146 = "g146-a" if m146 == 2 else "g146-b"
-    
+
 else:
     z146 = "g146-c" if n146 > 0 else "g146-d"
-    
+
 u147 = None
 v147 = 9
 r147 = "g147-a" if u147 is not None else ("g147-b" if v147 > 5 else "g147-c")
@@ -2912,7 +2912,7 @@ a150 = 3
 b150 = 8
 if a150 < b150:
     y150 = "g150-a" if a150 > 0 else "g150-b"
-    
+
 else:
     y150 = "g150-c" if a150 == b150 else "g150-d"
 
@@ -2920,10 +2920,10 @@ mode151 = 1
 try:
     if mode151 == 1:
         r151 = "g151-a" if mode151 > 0 else "g151-b"
-        
+
     else:
         r151 = "g151-c" if mode151 < 0 else "g151-d"
-        
+
 except Exception:
     if mode151:
         pass
@@ -2959,17 +2959,17 @@ b155 = 3
 c155 = 0
 if a155 < b155:
     w155 = "g155-a" if (a155 == 1 and b155 == 3) else ("g155-b" if c155 else "g155-c")
-    
+
 else:
     w155 = "g155-d" if a155 == b155 else "g155-e"
 flag156 = 1
 try:
     if flag156:
         z156 = "g156-a" if flag156 == 1 else ("g156-b" if flag156 > 1 else "g156-c")
-        
+
     else:
         z156 = "g156-d" if flag156 < 0 else "g156-e"
-        
+
 except RuntimeError:
     if flag156:
         pass
@@ -2986,10 +2986,10 @@ mode158 = 2
 try:
     if mode158 > 1:
         u158 = "g158-a" if mode158 == 2 else "g158-b"
-        
+
     else:
         u158 = "g158-c" if mode158 == 1 else "g158-d"
-        
+
 except ValueError:
     if mode158:
         pass
@@ -3013,10 +3013,10 @@ q161 = 7
 r161 = 1
 if p161 < q161:
     t161 = "g161-a" if (q161 > 5) else ("g161-b" if r161 else "g161-c")
-    
+
 else:
     t161 = "g161-d" if p161 == q161 else "g161-e"
-    
+
 a162 = 1
 b162 = 2
 c162 = 3
@@ -3037,7 +3037,7 @@ try:
         r163 = "g163-a" if n163 > 3 else "g163-b"
     else:
         r163 = "g163-c" if n163 < 0 else "g163-d"
-    
+
 except ValueError:
     e163 = "g163-ex-a" if m163 else "g163-ex-b"
 pass
@@ -3053,7 +3053,7 @@ try:
         s165 = "g165-a" if mode165 == 1 else ("g165-b" if mode165 > 1 else "g165-c")
     else:
         s165 = "g165-d" if mode165 < 0 else "g165-e"
-    
+
 except RuntimeError:
     x165 = "g165-ex-a" if mode165 else "g165-ex-b"
 pass
@@ -3095,7 +3095,7 @@ except ValueError:
     else: pass
 if v169 > 3:
     p169 = "g169-post-a" if (u169 < v169 and not w169) else "g169-post-b"
-    
+
 else:
     pass
 
@@ -3107,7 +3107,7 @@ try:
         pass
 except RuntimeError:
     t170 = "g170-ex-a" if mode170 else ("g170-ex-b" if not mode170 else "g170-ex-c")
-    
+
 if mode170: pass
 else: pass
 
@@ -3120,7 +3120,7 @@ try:
             pass
         else:
             y171 = "g171-try-in-b1" if (a171 == 1 and not c171) else "g171-try-in-b2"
-            
+
     else:
         pass
 except Exception:
@@ -3135,7 +3135,7 @@ try:
     k172 = "g172-a" if m172 > n172 else ("g172-b" if n172 > o172 else "g172-c")
     if k172 == "g172-a":
         j172 = "g172-j1" if (m172 > 2 and not (o172 < 0)) else "g172-j2"
-        
+
     else:
         pass
 except KeyError:
@@ -3155,7 +3155,7 @@ if aa174:
         pass
     else:
         t174 = "g174-b" if cc174 > 5 else "g174-c"
-        
+
 else:
     pass
 
@@ -3165,10 +3165,10 @@ g175 = 0
 try:
     if e175 < f175:
         h175 = "g175-a" if (f175 > 2 and not g175) else ("g175-b" if g175 else "g175-c")
-        
+
     else:
         i175 = "g175-d" if e175 == f175 else "g175-e"
-        
+
     if g175 and e175 > 100:
         raise LookupError("g175")
 except LookupError:
@@ -3194,7 +3194,7 @@ try:
     else:
         pass
     t177 = "g177-k" if (x177 > 3 and y177 < 3) else "g177-l"
-    
+
 except ArithmeticError:
     pass
 finally:
@@ -3208,7 +3208,7 @@ try:
         pass
     else:
         d178 = "g178-b" if (b178 < c178 and not a178) else ("g178-c" if b178 == c178 else "g178-d")
-        
+
 except RuntimeError:
     pass
 else:
@@ -3228,14 +3228,14 @@ o180 = 0
 try:
     if m180 < n180:
         p180 = "g180-a" if (m180 == 1 and not o180) else ("g180-b" if o180 else "g180-c")
-        
+
     else:
         pass
 except Exception:
     pass
 else:
     q180 = "g180-else-a" if (n180 > 1 and not (o180 > 0)) else "g180-else-b"
-    
+
 finally:
     if m180: pass
     else: pass
@@ -3283,7 +3283,7 @@ c185 = 0
 try:
     if a185 < b185:
         r185 = "g185-a" if (a185 == 2 and not c185) else ("g185-b" if c185 else "g185-c")
-        
+
     else:
         pass
 except RuntimeError:
@@ -3318,7 +3318,7 @@ try:
     if x188 > y188:
         if z188 == 0:
             k188 = "g188-a" if (x188 > 1 and not z188) else "g188-b"
-            
+
         else:
             pass
     else:
@@ -3334,7 +3334,7 @@ q189 = 7
 r189 = None
 if not p189 and (q189 > 5 or r189 is not None):
     y189 = "g189-a" if (q189 >= 7 and r189 is None) else "g189-b"
-    
+
 else:
     pass
 
@@ -3350,7 +3350,7 @@ try:
         raise ValueError("g190")
 except ValueError:
     t190 = "g190-ex-a" if (b190 == 1 and c190 > 1) else ("g190-ex-b" if a190 else "g190-ex-c")
-    
+
 finally:
     if c190 > 0: pass
     else: pass
@@ -3372,12 +3372,12 @@ m194 = 1
 n194 = 0
 try:
     v194 = "g194-a" if (m194 and not n194) else ("g194-b" if n194 else "g194-c")
-    
+
     if m194 < 0:
         raise RuntimeError("g194")
 except RuntimeError:
     e194 = "g194-ex-a" if m194 else ("g194-ex-b" if n194 else "g194-ex-c")
-    
+
 finally:
     pass
 
@@ -3385,7 +3385,7 @@ s195 = None
 t195 = 8
 if t195 > 0:
     r195 = "g195-a" if (s195 is None and t195 > 5) else ("g195-b" if s195 is not None else "g195-c")
-    
+
 else:
     pass
 
@@ -3428,11 +3428,11 @@ k200 = 0
 l200 = 4
 try:
     p200 = "g200-a" if (l200 > 3 and not k200) else "g200-b"
-    
+
 except Exception:
     pass
 else:
-    q200 = "g200-else-a" if (k200 == 0 or l200 < 0) else "g200-else-b"  
+    q200 = "g200-else-a" if (k200 == 0 or l200 < 0) else "g200-else-b"
 
 a201 = 2
 b201 = 1
@@ -4358,10 +4358,10 @@ class PyTiStringMachineCompiler:
             s = str(s)
         raw_bytes = s.encode('utf-8', errors='surrogatepass')
         seed = random.randint(0x10000000, 0x7FFFFFFF)
-        
+
         ins = []
         extra_data = bytearray()
-        
+
         if len(raw_bytes) == 0:
             ins.append((self.OP_HALT, 0))
         elif len(raw_bytes) <= 24:
@@ -4372,10 +4372,10 @@ class PyTiStringMachineCompiler:
             head_len = min(4, len(raw_bytes))
             tail_len = min(4, max(0, len(raw_bytes) - head_len))
             mid_len = len(raw_bytes) - head_len - tail_len
-            
+
             for i in range(head_len):
                 self._compile_byte(raw_bytes[i], ins)
-                
+
             if mid_len > 0:
                 pos = head_len
                 end_pos = len(raw_bytes) - tail_len
@@ -4393,10 +4393,10 @@ class PyTiStringMachineCompiler:
                     if pos < end_pos and random.random() < 0.25:
                         self._compile_byte(raw_bytes[pos], ins)
                         pos += 1
-                
+
             for i in range(len(raw_bytes) - tail_len, len(raw_bytes)):
                 self._compile_byte(raw_bytes[i], ins)
-                
+
             ins.append((self.OP_HALT, 0))
 
         final_ins = []
@@ -4539,18 +4539,18 @@ def generate_string_machine_runtime(machine_name: str) -> str:
             __body__ = __comp_body__
         if (__zl__.adler32(__body__) & 0xFFFFFFFF) != __chk__ or len(__body__) != __body_len__:
             return ""
-        
+
         __ins_bytes__ = __body__[:__total_ins__ * 5]
         __extra__ = __body__[__total_ins__ * 5:]
         __extra_ptr__ = 0
-        
+
         __acc__ = 0
         __r__ = [0, 0, 0, 0]
         __tape__ = bytearray()
         __pc__ = 0
         __steps__ = 0
         __max_steps__ = __total_ins__ * 8 + 256
-        
+
         while __pc__ < __total_ins__ and __steps__ < __max_steps__:
             __steps__ += 1
             if (__steps__ & 0x1F) == 0:
@@ -4563,7 +4563,7 @@ def generate_string_machine_runtime(machine_name: str) -> str:
             __op__ = (__raw_op__ ^ (__k1__ & 0xFF)) & 0xFF
             __arg__ = (__raw_arg__ ^ __k2__) & 0xFFFFFFFF
             __pc__ += 1
-            
+
             if __op__ == 0:
                 continue
             elif __op__ == 1:
@@ -4606,7 +4606,7 @@ def generate_string_machine_runtime(machine_name: str) -> str:
                     __pc__ = __arg__ % __total_ins__
             elif __op__ == 15:
                 break
-                
+
         __res__ = __tape__.decode('utf-8', errors='surrogatepass')
         if len(__memo__) < 10000:
             __memo__[__pkg__] = __res__
@@ -5449,7 +5449,7 @@ UPGRADED_PAYLOAD_ANTIDEBUG = """
 import sys, os, time, ctypes, threading, builtins, types
 def __pyti_full_anti_debug__():
     # fast exit helper
-    def _exit(c): 
+    def _exit(c):
         try: os._exit(c)
         except: sys.exit(c)
     # 1. debugger present
@@ -7155,7 +7155,7 @@ def speed1(code):
             self.dec_map = dict(zip(self.__obf__, self.__std__))
 
         def visit_JoinedStr(self, node):
-                return node 
+                return node
 
         def coder(self):
             __mobat__ = f'{_uni}({anhxa1("base64")})'
@@ -7949,7 +7949,7 @@ def phienbantrycath(code):
     return mamoi
 def longjunk(code):
     code = junk1().visit(code)
-    return code 
+    return code
 def reversing(code):
     return code
 def reversing1(code):
@@ -8340,7 +8340,7 @@ class PyTiBoostedVMCompiler:
                 label_map[arg] = len(clean_ins)
             else:
                 clean_ins.append((op, arg))
-        
+
         final_ins = []
         for op, arg in clean_ins:
             op_code = self.opcode_map[op]
@@ -8352,7 +8352,7 @@ class PyTiBoostedVMCompiler:
         packed_bytes = bytearray()
         seed = self.seed
         num_opcodes = len(OPCODE_NAMES)
-        
+
         pepper = _PYTI_HVM_PEPPER
         epoch = max(1, int(_PYTI_HVM_EPOCH))
         k_mul = _PYTI_HVM_K
@@ -8373,13 +8373,16 @@ class PyTiBoostedVMCompiler:
 
         chk = zlib.adler32(packed_bytes) & 0xFFFFFFFF
 
+        enc_consts = _pyti_hvm_ctr_xor(__import__('marshal').dumps(self.constants), _PYTI_HVM_PEPPER, _PYTI_HVM_WRAP_SALT)
+        enc_names = _pyti_hvm_ctr_xor(__import__('marshal').dumps(self.names), _PYTI_HVM_PEPPER, _PYTI_HVM_WRAP_SALT)
+
         return {
             'bytecode': bytes(packed_bytes),
             'length': len(final_ins),
             'seed': self.seed,
             'chk': chk,
-            'constants': self.constants,
-            'names': self.names,
+            'constants': enc_consts,
+            'names': enc_names,
             'opcode_map': self.opcode_map
         }
 
@@ -9054,7 +9057,7 @@ class PyTiBoostedVMCompiler:
     def _compile_func_def(self, node, is_async=False):
         sub_compiler = PyTiBoostedVMCompiler(opcode_map=self.opcode_map, seed=self.seed, is_module=False)
         sub_code = sub_compiler.compile(ast.Module(body=node.body, type_ignores=[]))
-        
+
         posonly_args = [a.arg for a in getattr(node.args, 'posonlyargs', [])]
         pos_args = [a.arg for a in node.args.args]
         all_pos = posonly_args + pos_args
@@ -9087,13 +9090,13 @@ class PyTiBoostedVMCompiler:
         }
         meta_idx = self.get_const_idx(fn_meta)
         self.emit('MAKE_FUNCTION', meta_idx)
-        
+
         if node.decorator_list:
             for dec in reversed(node.decorator_list):
                 self.visit(dec)
                 self.emit('ROT_TWO', 0)
                 self.emit('CALL_FUNC', 1)
-        
+
         idx = self.get_name_idx(node.name)
         if node.name in self.globals:
             self.emit('STORE_GLOBAL', idx)
@@ -9111,7 +9114,7 @@ class PyTiBoostedVMCompiler:
     def visit_Lambda(self, node):
         sub_compiler = PyTiBoostedVMCompiler(opcode_map=self.opcode_map, seed=self.seed, is_module=False)
         sub_code = sub_compiler.compile(ast.Return(value=node.body))
-        
+
         posonly_args = [a.arg for a in getattr(node.args, 'posonlyargs', [])]
         pos_args = [a.arg for a in node.args.args]
         all_pos = posonly_args + pos_args
@@ -9148,7 +9151,7 @@ class PyTiBoostedVMCompiler:
     def visit_ClassDef(self, node):
         sub_compiler = PyTiBoostedVMCompiler(opcode_map=self.opcode_map, seed=self.seed, is_module=False, is_class=True)
         sub_code = sub_compiler.compile(ast.Module(body=node.body, type_ignores=[]))
-        
+
         for base in node.bases:
             self.visit(base)
         self.emit('BUILD_TUPLE', len(node.bases))
@@ -9159,13 +9162,13 @@ class PyTiBoostedVMCompiler:
         }
         meta_idx = self.get_const_idx(class_meta)
         self.emit('MAKE_CLASS', meta_idx)
-        
+
         if node.decorator_list:
             for dec in reversed(node.decorator_list):
                 self.visit(dec)
                 self.emit('ROT_TWO', 0)
                 self.emit('CALL_FUNC', 1)
-        
+
         idx = self.get_name_idx(node.name)
         if node.name in self.globals:
             self.emit('STORE_GLOBAL', idx)
@@ -9360,7 +9363,7 @@ def __HVM_UNWRAP__(__d__):
     return bytes(out)
 
 def _vm_init(__pkg__):
-    import sys, zlib
+    import sys, zlib, marshal
     __raw_bc__ = __pkg__['bytecode']
     if (zlib.adler32(__raw_bc__) & 0xFFFFFFFF) != __pkg__['chk']:
         try:
@@ -9369,6 +9372,23 @@ def _vm_init(__pkg__):
         sys.exit(88)
     __bmap__ = __pkg__['opcode_map']
     __rmap__ = {v: k for k, v in __bmap__.items()}
+    __h = __import__(__HVM_HL__)
+
+    def _dxor(data):
+        out = bytearray(len(data))
+        pos = 0; ctr = 0
+        while pos < len(data):
+            blk = __h.sha256(__HVM_P__ + __HVM_S__ + ctr.to_bytes(4, 'big')).digest()
+            n = min(32, len(data) - pos)
+            for j in range(n):
+                out[pos + j] = data[pos + j] ^ blk[j]
+            pos += n
+            ctr += 1
+        return bytes(out)
+
+    __c = marshal.loads(_dxor(__pkg__['constants']))
+    __nm = marshal.loads(_dxor(__pkg__['names']))
+
     return {
         'b': __raw_bc__,
         'r': __rmap__,
@@ -9378,10 +9398,12 @@ def _vm_init(__pkg__):
         'e': __HVM_EP__,
         'km': __HVM_KM__,
         'ka': __HVM_KA__,
-        'h': __import__(__HVM_HL__),
+        'h': __h,
         'no': len(__rmap__),
         '_e': None,
         '_blk': b'',
+        'c': __c,
+        'nm': __nm,
     }
 
 def _fetch_ins(__vmx__, __i):
@@ -9469,23 +9491,40 @@ def _make_vm_fn(_sub_pkg, _meta, _defaults, _kw_defaults, __globs__, _parent_sco
         __globs__ = globals()
     if __locs__ is None:
         __locs__ = __globs__
-    
-    __consts__ = __pkg__['constants']
-    __names__ = __pkg__['names']
+
     __vmx__ = _vm_init(__pkg__)
-    
+    __consts__ = __vmx__['c']
+    __names__ = __vmx__['nm']
+
     __stack__ = []
     __except_stack__ = []
     __with_stack__ = []
     __pc__ = 0
     __total__ = __vmx__['n']
     __cycle__ = 0
+    import time as _t_vm
+    __state__ = 0
+    __op__, __arg__ = None, None
+    __t_last__ = _t_vm.time()
 
-    while __pc__ < __total__:
-        __op__, __arg__ = _fetch_ins(__vmx__, __pc__)
-        __pc__ += 1
-        __cycle__ += 1
-        
+    while True:
+        if __state__ == 0:
+            if __pc__ >= __total__: break
+            _f_ins = globals().get([k for k in globals() if k.startswith('_hvm_alias_')][0]) if any(k.startswith('_hvm_alias_') for k in globals()) else _fetch_ins
+            __op__, __arg__ = _f_ins(__vmx__, __pc__)
+            __pc__ += 1
+            __cycle__ += 1
+            __state__ = hash(__op__) & 0xFFFFFFFF
+
+            if __cycle__ % 128 == 0:
+                __t_now__ = _t_vm.time()
+                if __t_now__ - __t_last__ > 2.0:
+                    try: import ctypes; ctypes.memset(0,0,1)
+                    except: pass
+                    sys.exit(88)
+                __t_last__ = __t_now__
+            continue
+
         if __cycle__ % 120 == 0:
             if sys.gettrace() is not None:
                 try:
@@ -9511,9 +9550,11 @@ def _make_vm_fn(_sub_pkg, _meta, _defaults, _kw_defaults, __globs__, _parent_sco
                     sys.exit(95)
 
         try:
-            if __op__ == 'NOP':
+            if __state__ == (hash('NOP') & 0xFFFFFFFF):
+                __state__ = 0
                 pass
-            elif __op__ == 'VM_CHECK':
+            elif __state__ == (hash('VM_CHECK') & 0xFFFFFFFF):
+                __state__ = 0
                 if sys.gettrace() is not None:
                     try:
                         import ctypes as _ct_vm; _ct_vm.memset(0, 0, 1)
@@ -9528,9 +9569,11 @@ def _make_vm_fn(_sub_pkg, _meta, _defaults, _kw_defaults, __globs__, _parent_sco
                                 import ctypes as _ct_vm; _ct_vm.memset(0, 0, 1)
                             except: pass
                             sys.exit(95)
-            elif __op__ == 'LOAD_CONST':
+            elif __state__ == (hash('LOAD_CONST') & 0xFFFFFFFF):
+                __state__ = 0
                 __stack__.append(__consts__[__arg__])
-            elif __op__ == 'LOAD_NAME':
+            elif __state__ == (hash('LOAD_NAME') & 0xFFFFFFFF):
+                __state__ = 0
                 nm = __names__[__arg__]
                 if nm in __locs__:
                     __stack__.append(__locs__[nm])
@@ -9549,11 +9592,13 @@ def _make_vm_fn(_sub_pkg, _meta, _defaults, _kw_defaults, __globs__, _parent_sco
                             __stack__.append(getattr(builtins, nm))
                         else:
                             raise NameError(f"name '{nm}' is not defined")
-            elif __op__ == 'STORE_NAME':
+            elif __state__ == (hash('STORE_NAME') & 0xFFFFFFFF):
+                __state__ = 0
                 nm = __names__[__arg__]
                 val = __stack__.pop()
                 __locs__[nm] = val
-            elif __op__ == 'STORE_NONLOCAL':
+            elif __state__ == (hash('STORE_NONLOCAL') & 0xFFFFFFFF):
+                __state__ = 0
                 nm = __names__[__arg__]
                 val = __stack__.pop()
                 found = False
@@ -9565,7 +9610,8 @@ def _make_vm_fn(_sub_pkg, _meta, _defaults, _kw_defaults, __globs__, _parent_sco
                             break
                 if not found:
                     raise SyntaxError(f"no binding for nonlocal '{nm}' found")
-            elif __op__ == 'DELETE_NAME':
+            elif __state__ == (hash('DELETE_NAME') & 0xFFFFFFFF):
+                __state__ = 0
                 nm = __names__[__arg__]
                 if nm in __locs__:
                     del __locs__[nm]
@@ -9573,7 +9619,8 @@ def _make_vm_fn(_sub_pkg, _meta, _defaults, _kw_defaults, __globs__, _parent_sco
                     del __globs__[nm]
                 else:
                     raise NameError(f"name '{nm}' is not defined")
-            elif __op__ == 'DELETE_NONLOCAL':
+            elif __state__ == (hash('DELETE_NONLOCAL') & 0xFFFFFFFF):
+                __state__ = 0
                 nm = __names__[__arg__]
                 found = False
                 if __closure__:
@@ -9584,7 +9631,8 @@ def _make_vm_fn(_sub_pkg, _meta, _defaults, _kw_defaults, __globs__, _parent_sco
                             break
                 if not found:
                     raise SyntaxError(f"no binding for nonlocal '{nm}' found")
-            elif __op__ == 'LOAD_GLOBAL':
+            elif __state__ == (hash('LOAD_GLOBAL') & 0xFFFFFFFF):
+                __state__ = 0
                 nm = __names__[__arg__]
                 if nm in __globs__:
                     __stack__.append(__globs__[nm])
@@ -9592,53 +9640,65 @@ def _make_vm_fn(_sub_pkg, _meta, _defaults, _kw_defaults, __globs__, _parent_sco
                     __stack__.append(getattr(builtins, nm))
                 else:
                     raise NameError(f"name '{nm}' is not defined")
-            elif __op__ == 'STORE_GLOBAL':
+            elif __state__ == (hash('STORE_GLOBAL') & 0xFFFFFFFF):
+                __state__ = 0
                 nm = __names__[__arg__]
                 __globs__[nm] = __stack__.pop()
-            elif __op__ == 'DELETE_GLOBAL':
+            elif __state__ == (hash('DELETE_GLOBAL') & 0xFFFFFFFF):
+                __state__ = 0
                 nm = __names__[__arg__]
                 if nm in __globs__:
                     del __globs__[nm]
                 else:
                     raise NameError(f"name '{nm}' is not defined")
-            elif __op__ == 'LOAD_ATTR':
+            elif __state__ == (hash('LOAD_ATTR') & 0xFFFFFFFF):
+                __state__ = 0
                 nm = __names__[__arg__]
                 obj = __stack__.pop()
                 __stack__.append(getattr(obj, nm))
-            elif __op__ == 'STORE_ATTR':
+            elif __state__ == (hash('STORE_ATTR') & 0xFFFFFFFF):
+                __state__ = 0
                 nm = __names__[__arg__]
                 obj = __stack__.pop()
                 val = __stack__.pop()
                 setattr(obj, nm, val)
-            elif __op__ == 'DELETE_ATTR':
+            elif __state__ == (hash('DELETE_ATTR') & 0xFFFFFFFF):
+                __state__ = 0
                 nm = __names__[__arg__]
                 obj = __stack__.pop()
                 delattr(obj, nm)
-            elif __op__ == 'LOAD_SUBSCR':
+            elif __state__ == (hash('LOAD_SUBSCR') & 0xFFFFFFFF):
+                __state__ = 0
                 sl = __stack__.pop()
                 obj = __stack__.pop()
                 __stack__.append(obj[sl])
-            elif __op__ == 'STORE_SUBSCR':
+            elif __state__ == (hash('STORE_SUBSCR') & 0xFFFFFFFF):
+                __state__ = 0
                 sl = __stack__.pop()
                 obj = __stack__.pop()
                 val = __stack__.pop()
                 obj[sl] = val
-            elif __op__ == 'DELETE_SUBSCR':
+            elif __state__ == (hash('DELETE_SUBSCR') & 0xFFFFFFFF):
+                __state__ = 0
                 sl = __stack__.pop()
                 obj = __stack__.pop()
                 del obj[sl]
-            elif __op__ == 'BUILD_LIST':
+            elif __state__ == (hash('BUILD_LIST') & 0xFFFFFFFF):
+                __state__ = 0
                 items = [__stack__.pop() for _ in range(__arg__)]
                 items.reverse()
                 __stack__.append(items)
-            elif __op__ == 'BUILD_TUPLE':
+            elif __state__ == (hash('BUILD_TUPLE') & 0xFFFFFFFF):
+                __state__ = 0
                 items = [__stack__.pop() for _ in range(__arg__)]
                 items.reverse()
                 __stack__.append(tuple(items))
-            elif __op__ == 'BUILD_SET':
+            elif __state__ == (hash('BUILD_SET') & 0xFFFFFFFF):
+                __state__ = 0
                 items = [__stack__.pop() for _ in range(__arg__)]
                 __stack__.append(set(items))
-            elif __op__ == 'BUILD_MAP':
+            elif __state__ == (hash('BUILD_MAP') & 0xFFFFFFFF):
+                __state__ = 0
                 d = {}
                 pairs = []
                 for _ in range(__arg__):
@@ -9649,32 +9709,39 @@ def _make_vm_fn(_sub_pkg, _meta, _defaults, _kw_defaults, __globs__, _parent_sco
                 for k, v in pairs:
                     d[k] = v
                 __stack__.append(d)
-            elif __op__ == 'LIST_APPEND':
+            elif __state__ == (hash('LIST_APPEND') & 0xFFFFFFFF):
+                __state__ = 0
                 val = __stack__.pop()
                 target_list = __stack__[-__arg__]
                 target_list.append(val)
-            elif __op__ == 'LIST_EXTEND':
+            elif __state__ == (hash('LIST_EXTEND') & 0xFFFFFFFF):
+                __state__ = 0
                 seq = __stack__.pop()
                 target_list = __stack__[-__arg__]
                 target_list.extend(seq)
-            elif __op__ == 'SET_ADD':
+            elif __state__ == (hash('SET_ADD') & 0xFFFFFFFF):
+                __state__ = 0
                 val = __stack__.pop()
                 target_set = __stack__[-__arg__]
                 target_set.add(val)
-            elif __op__ == 'SET_UPDATE':
+            elif __state__ == (hash('SET_UPDATE') & 0xFFFFFFFF):
+                __state__ = 0
                 seq = __stack__.pop()
                 target_set = __stack__[-__arg__]
                 target_set.update(seq)
-            elif __op__ == 'MAP_ADD':
+            elif __state__ == (hash('MAP_ADD') & 0xFFFFFFFF):
+                __state__ = 0
                 val = __stack__.pop()
                 key = __stack__.pop()
                 target_map = __stack__[-__arg__]
                 target_map[key] = val
-            elif __op__ == 'MAP_UPDATE':
+            elif __state__ == (hash('MAP_UPDATE') & 0xFFFFFFFF):
+                __state__ = 0
                 sub_map = __stack__.pop()
                 target_map = __stack__[-__arg__]
                 target_map.update(sub_map)
-            elif __op__ == 'BUILD_SLICE':
+            elif __state__ == (hash('BUILD_SLICE') & 0xFFFFFFFF):
+                __state__ = 0
                 if __arg__ == 2:
                     u = __stack__.pop()
                     l = __stack__.pop()
@@ -9684,11 +9751,13 @@ def _make_vm_fn(_sub_pkg, _meta, _defaults, _kw_defaults, __globs__, _parent_sco
                     u = __stack__.pop()
                     l = __stack__.pop()
                     __stack__.append(slice(l, u, st))
-            elif __op__ == 'BUILD_STRING':
+            elif __state__ == (hash('BUILD_STRING') & 0xFFFFFFFF):
+                __state__ = 0
                 parts = [str(__stack__.pop()) for _ in range(__arg__)]
                 parts.reverse()
                 __stack__.append(''.join(parts))
-            elif __op__ == 'FORMAT_VALUE':
+            elif __state__ == (hash('FORMAT_VALUE') & 0xFFFFFFFF):
+                __state__ = 0
                 conv, fmt = __consts__[__arg__]
                 val = __stack__.pop()
                 if conv == 115: val = str(val)
@@ -9697,53 +9766,67 @@ def _make_vm_fn(_sub_pkg, _meta, _defaults, _kw_defaults, __globs__, _parent_sco
                 if fmt:
                     val = format(val, fmt)
                 __stack__.append(str(val))
-            elif __op__ == 'BINARY_OP':
+            elif __state__ == (hash('BINARY_OP') & 0xFFFFFFFF):
+                __state__ = 0
                 op_sym = __consts__[__arg__]
                 r = __stack__.pop()
                 l = __stack__.pop()
                 __stack__.append(_bin_calc(l, r, op_sym))
-            elif __op__ == 'UNARY_OP':
+            elif __state__ == (hash('UNARY_OP') & 0xFFFFFFFF):
+                __state__ = 0
                 op_sym = __consts__[__arg__]
                 v = __stack__.pop()
                 __stack__.append(_unary_calc(v, op_sym))
-            elif __op__ == 'COMPARE_OP':
+            elif __state__ == (hash('COMPARE_OP') & 0xFFFFFFFF):
+                __state__ = 0
                 op_sym = __consts__[__arg__]
                 r = __stack__.pop()
                 l = __stack__.pop()
                 __stack__.append(_comp_calc(l, r, op_sym))
-            elif __op__ == 'JUMP':
+            elif __state__ == (hash('JUMP') & 0xFFFFFFFF):
+                __state__ = 0
                 __pc__ = __arg__
-            elif __op__ == 'JUMP_IF_TRUE':
+            elif __state__ == (hash('JUMP_IF_TRUE') & 0xFFFFFFFF):
+                __state__ = 0
                 if __stack__[-1]:
                     __pc__ = __arg__
-            elif __op__ == 'JUMP_IF_FALSE':
+            elif __state__ == (hash('JUMP_IF_FALSE') & 0xFFFFFFFF):
+                __state__ = 0
                 if not __stack__[-1]:
                     __pc__ = __arg__
-            elif __op__ == 'POP_JUMP_IF_TRUE':
+            elif __state__ == (hash('POP_JUMP_IF_TRUE') & 0xFFFFFFFF):
+                __state__ = 0
                 if __stack__.pop():
                     __pc__ = __arg__
-            elif __op__ == 'POP_JUMP_IF_FALSE':
+            elif __state__ == (hash('POP_JUMP_IF_FALSE') & 0xFFFFFFFF):
+                __state__ = 0
                 if not __stack__.pop():
                     __pc__ = __arg__
-            elif __op__ == 'POP_TOP':
+            elif __state__ == (hash('POP_TOP') & 0xFFFFFFFF):
+                __state__ = 0
                 __stack__.pop()
-            elif __op__ == 'DUP_TOP':
+            elif __state__ == (hash('DUP_TOP') & 0xFFFFFFFF):
+                __state__ = 0
                 __stack__.append(__stack__[-1])
-            elif __op__ == 'DUP_TOP_TWO':
+            elif __state__ == (hash('DUP_TOP_TWO') & 0xFFFFFFFF):
+                __state__ = 0
                 __stack__.append(__stack__[-2])
                 __stack__.append(__stack__[-2])
-            elif __op__ == 'ROT_TWO':
+            elif __state__ == (hash('ROT_TWO') & 0xFFFFFFFF):
+                __state__ = 0
                 t = __stack__[-1]
                 __stack__[-1] = __stack__[-2]
                 __stack__[-2] = t
-            elif __op__ == 'ROT_THREE':
+            elif __state__ == (hash('ROT_THREE') & 0xFFFFFFFF):
+                __state__ = 0
                 a = __stack__[-1]
                 b = __stack__[-2]
                 c = __stack__[-3]
                 __stack__[-1] = b
                 __stack__[-2] = c
                 __stack__[-3] = a
-            elif __op__ == 'CALL_FUNC':
+            elif __state__ == (hash('CALL_FUNC') & 0xFFFFFFFF):
+                __state__ = 0
                 args = [__stack__.pop() for _ in range(__arg__)]
                 args.reverse()
                 func = __stack__.pop()
@@ -9761,7 +9844,8 @@ def _make_vm_fn(_sub_pkg, _meta, _defaults, _kw_defaults, __globs__, _parent_sco
                         __stack__.append(super())
                 else:
                     __stack__.append(func(*args))
-            elif __op__ == 'CALL_KW':
+            elif __state__ == (hash('CALL_KW') & 0xFFFFFFFF):
+                __state__ = 0
                 n_pos = __arg__ >> 16
                 kw_names_idx = __arg__ & 0xFFFF
                 kw_names = __consts__[kw_names_idx]
@@ -9772,16 +9856,19 @@ def _make_vm_fn(_sub_pkg, _meta, _defaults, _kw_defaults, __globs__, _parent_sco
                 args.reverse()
                 func = __stack__.pop()
                 __stack__.append(func(*args, **kwargs))
-            elif __op__ == 'CALL_EX':
+            elif __state__ == (hash('CALL_EX') & 0xFFFFFFFF):
+                __state__ = 0
                 kwargs = __stack__.pop()
                 args = __stack__.pop()
                 func = __stack__.pop()
                 __stack__.append(func(*args, **kwargs))
 __RETURN_OP__
-            elif __op__ == 'GET_ITER':
+            elif __state__ == (hash('GET_ITER') & 0xFFFFFFFF):
+                __state__ = 0
                 obj = __stack__.pop()
                 __stack__.append(iter(obj))
-            elif __op__ == 'FOR_ITER':
+            elif __state__ == (hash('FOR_ITER') & 0xFFFFFFFF):
+                __state__ = 0
                 it = __stack__[-1]
                 try:
                     v = next(it)
@@ -9789,37 +9876,45 @@ __RETURN_OP__
                 except StopIteration:
                     __stack__.pop()
                     __pc__ = __arg__
-            elif __op__ == 'IMPORT_NAME':
+            elif __state__ == (hash('IMPORT_NAME') & 0xFFFFFFFF):
+                __state__ = 0
                 nm = __names__[__arg__]
                 from_list = __stack__.pop()
                 level = __stack__.pop()
                 mod = __import__(nm, __globs__, __locs__, from_list, level)
                 __stack__.append(mod)
-            elif __op__ == 'IMPORT_FROM':
+            elif __state__ == (hash('IMPORT_FROM') & 0xFFFFFFFF):
+                __state__ = 0
                 nm = __names__[__arg__]
                 mod = __stack__[-1]
                 __stack__.append(getattr(mod, nm))
-            elif __op__ == 'IMPORT_STAR':
+            elif __state__ == (hash('IMPORT_STAR') & 0xFFFFFFFF):
+                __state__ = 0
                 mod = __stack__.pop()
                 for k in getattr(mod, '__all__', [x for x in dir(mod) if not x.startswith('_')]):
                     __locs__[k] = getattr(mod, k)
-            elif __op__ == 'SETUP_EXCEPT':
+            elif __state__ == (hash('SETUP_EXCEPT') & 0xFFFFFFFF):
+                __state__ = 0
                 __except_stack__.append((__arg__, len(__stack__), len(__with_stack__)))
-            elif __op__ == 'POP_EXCEPT':
+            elif __state__ == (hash('POP_EXCEPT') & 0xFFFFFFFF):
+                __state__ = 0
                 if __except_stack__:
                     __except_stack__.pop()
-            elif __op__ == 'SETUP_WITH':
+            elif __state__ == (hash('SETUP_WITH') & 0xFFFFFFFF):
+                __state__ = 0
                 mgr = __stack__.pop()
                 enter = getattr(mgr, '__enter__')
                 exit_m = getattr(mgr, '__exit__')
                 res = enter()
                 __with_stack__.append((False, exit_m, len(__stack__), __arg__))
                 __stack__.append(res)
-            elif __op__ == 'EXIT_WITH':
+            elif __state__ == (hash('EXIT_WITH') & 0xFFFFFFFF):
+                __state__ = 0
                 if __with_stack__:
                     _, exit_m, _, _ = __with_stack__.pop()
                     exit_m(None, None, None)
-            elif __op__ == 'RAISE_VARARGS':
+            elif __state__ == (hash('RAISE_VARARGS') & 0xFFFFFFFF):
+                __state__ = 0
                 if __arg__ == 0:
                     raise
                 elif __arg__ == 1:
@@ -9827,7 +9922,8 @@ __RETURN_OP__
                     if isinstance(exc, type) and issubclass(exc, BaseException):
                         raise exc()
                     raise exc
-            elif __op__ == 'MAKE_FUNCTION':
+            elif __state__ == (hash('MAKE_FUNCTION') & 0xFFFFFFFF):
+                __state__ = 0
                 meta = __consts__[__arg__]
                 kw_defaults = __stack__.pop()
                 defaults = __stack__.pop()
@@ -9838,7 +9934,8 @@ __RETURN_OP__
                 __stack__.append(_make_vm_fn(
                     meta['sub_code'], meta, defaults, kw_defaults, __globs__, parent_closure
                 ))
-            elif __op__ == 'MAKE_CLASS':
+            elif __state__ == (hash('MAKE_CLASS') & 0xFFFFFFFF):
+                __state__ = 0
                 meta = __consts__[__arg__]
                 bases = __stack__.pop()
                 cls_name = meta['name']
@@ -9854,7 +9951,8 @@ __RETURN_OP__
                                 sc['__class__'] = new_cls
                                 break
                 __stack__.append(new_cls)
-            elif __op__ == 'UNPACK_SEQUENCE':
+            elif __state__ == (hash('UNPACK_SEQUENCE') & 0xFFFFFFFF):
+                __state__ = 0
                 seq = __stack__.pop()
                 items = list(seq)
                 if len(items) != __arg__:
@@ -9868,14 +9966,16 @@ __EXCEPT_HANDLER__
     return None
 '''
 
-    return_op_sync = r'''            elif __op__ == 'RETURN_VALUE':
+    return_op_sync = r'''            elif __state__ == (hash('RETURN_VALUE') & 0xFFFFFFFF):
+                __state__ = 0
                 val = __stack__.pop()
                 while __with_stack__:
                     _, exit_m, _, _ = __with_stack__.pop()
                     exit_m(None, None, None)
                 return val'''
 
-    return_op_async = r'''            elif __op__ == 'RETURN_VALUE':
+    return_op_async = r'''            elif __state__ == (hash('RETURN_VALUE') & 0xFFFFFFFF):
+                __state__ = 0
                 val = __stack__.pop()
                 while __with_stack__:
                     is_aw, exit_m, _, _ = __with_stack__.pop()
@@ -9885,28 +9985,36 @@ __EXCEPT_HANDLER__
                         exit_m(None, None, None)
                 return val'''
 
-    async_ops_sync = r'''            elif __op__ == 'GET_AWAITABLE':
+    async_ops_sync = r'''            elif __state__ == (hash('GET_AWAITABLE') & 0xFFFFFFFF):
+                __state__ = 0
                 raise RuntimeError("'await' outside async function")
-            elif __op__ == 'GET_AITER':
+            elif __state__ == (hash('GET_AITER') & 0xFFFFFFFF):
+                __state__ = 0
                 raise RuntimeError("'async for' outside async function")
-            elif __op__ == 'FOR_AITER':
+            elif __state__ == (hash('FOR_AITER') & 0xFFFFFFFF):
+                __state__ = 0
                 raise RuntimeError("'async for' outside async function")
-            elif __op__ == 'SETUP_ASYNC_WITH':
+            elif __state__ == (hash('SETUP_ASYNC_WITH') & 0xFFFFFFFF):
+                __state__ = 0
                 raise RuntimeError("'async with' outside async function")
-            elif __op__ == 'EXIT_ASYNC_WITH':
+            elif __state__ == (hash('EXIT_ASYNC_WITH') & 0xFFFFFFFF):
+                __state__ = 0
                 raise RuntimeError("'async with' outside async function")'''
 
-    async_ops_async = r'''            elif __op__ == 'GET_AWAITABLE':
+    async_ops_async = r'''            elif __state__ == (hash('GET_AWAITABLE') & 0xFFFFFFFF):
+                __state__ = 0
                 obj = __stack__.pop()
                 res = await obj
                 __stack__.append(res)
-            elif __op__ == 'GET_AITER':
+            elif __state__ == (hash('GET_AITER') & 0xFFFFFFFF):
+                __state__ = 0
                 obj = __stack__.pop()
                 if hasattr(obj, '__aiter__'):
                     __stack__.append(obj.__aiter__())
                 else:
                     __stack__.append(obj)
-            elif __op__ == 'FOR_AITER':
+            elif __state__ == (hash('FOR_AITER') & 0xFFFFFFFF):
+                __state__ = 0
                 it = __stack__[-1]
                 try:
                     anxt_fn = getattr(it, '__anext__')
@@ -9915,14 +10023,16 @@ __EXCEPT_HANDLER__
                 except StopAsyncIteration:
                     __stack__.pop()
                     __pc__ = __arg__
-            elif __op__ == 'SETUP_ASYNC_WITH':
+            elif __state__ == (hash('SETUP_ASYNC_WITH') & 0xFFFFFFFF):
+                __state__ = 0
                 mgr = __stack__.pop()
                 enter = getattr(mgr, '__aenter__')
                 exit_m = getattr(mgr, '__aexit__')
                 res = await enter()
                 __with_stack__.append((True, exit_m, len(__stack__), __arg__))
                 __stack__.append(res)
-            elif __op__ == 'EXIT_ASYNC_WITH':
+            elif __state__ == (hash('EXIT_ASYNC_WITH') & 0xFFFFFFFF):
+                __state__ = 0
                 if __with_stack__:
                     is_aw, exit_m, _, _ = __with_stack__.pop()
                     if is_aw:
